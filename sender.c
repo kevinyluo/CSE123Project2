@@ -2,7 +2,7 @@
 
 #include <assert.h>
 
-#define WINDOW_SIZE 4;
+#define WINDOW_SIZE 8;
 
 static const MAX_SEQ = 255;
 
